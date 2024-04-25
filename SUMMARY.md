@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Abstract](README.md)
+* [AWG action plan](README.md)
+* [Abstract](<README (1).md>)
 * [Introduction to gravity, light and space exploration](introduction-to-gravity-light-and-space-exploration.md)
 * [Gravitropism review](gravitropism-review.md)
 * [Methods:](methods.md)
