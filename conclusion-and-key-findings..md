@@ -1,4 +1,4 @@
-# Conclusion:
+# Conclusion and key findings.
 
 ## Significant Impact of Light Absence on Plant adaption to spaceflight&#x20;
 
@@ -11,8 +11,6 @@ Plants undergo significant adaptations in amino acid metabolism and transport in
 
 
 In conclusion, the morphological changes observed in plants during spaceflight, such as skewing and curling, are strongly linked to the stress induced by hypoxia, mirroring similar responses seen under terrestrial hypoxic or anoxic conditions. This suggests a fundamental stress response mechanism deeply influenced by changes in oxygen availability, whether in space or on Earth. The notable asymmetry and altered growth patterns—plants becoming shorter and thicker—emphasize the impact of altered auxin distribution or activity under flight conditions. These findings underscore the profound effect of the space environment on plant physiology, highlighting the necessity of further research to understand and mitigate these effects for future space exploration and agriculture.
-
-####
 
 
 

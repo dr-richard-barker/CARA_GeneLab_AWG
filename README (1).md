@@ -8,6 +8,8 @@
 
 
 
+<figure><img src=".gitbook/assets/CARA summary 2022 (DRB) (3).png" alt=""><figcaption><p>Brainstorming a introfuctory figure</p></figcaption></figure>
+
 #### Asymmetry in Plant Growth Responses: Earth vs. Space
 
 * **Asymmetry in Flight Conditions:** Plants exposed to conditions of flight exhibit a notable lack of symmetry, demonstrating a tendency towards becoming shorter and fatter. This morphological change is indicative of alterations in the plant hormone auxin, which plays a crucial role in regulating plant growth and behavior.

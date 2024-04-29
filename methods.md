@@ -1,10 +1,10 @@
 # Methods:
 
+## RNAseq Reanalysis by OSDR
+
 In this study, we investigate the role of the PIN auxin transporter during spaceflight and translate environmental signals, such as light or dark, into changes in growth patterns. Additionally, we use mathematical modeling to study the effects of this transporter on Arabidopsis growth patterns during the CARA mission. Arabidopsis thaliana seedlings were grown in spaceflight or ground control conditions under light or dark conditions. Root growth was measured at various time points. RNA sequencing was used to identify genes that were differentially expressed in the spaceflight and ground control conditions. Mathematical modeling was used to simulate the effects of auxin transport on root growth.&#x20;
 
 
-
-## RNAseq Reanalysis by OSDR
 
 The CARA (GLDS-120) experiments encompassed RNAseq analysis, utilizing the GeneLab data visualization system. RNASeq data from CARA processed by NASA **GeneLab provide many interactive data visualization options** [https://visualization.genelab.nasa.gov/data/GLDS-120](https://visualization.genelab.nasa.gov/data/GLDS-120)
 
