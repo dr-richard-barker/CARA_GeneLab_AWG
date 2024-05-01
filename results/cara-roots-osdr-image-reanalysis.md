@@ -4,7 +4,11 @@
 
 Col-phyD and WS have similar auxin transport patterns and this is reflected in the similarity of their root system architecture. The image archive from ASLDS provided images that were first aligned using Adobe Bridge Image Raw and then traced using SmartRoot in ImageJ/FIJI. These tracings underwent quantitative analysis, and the results were archived using the Root System Markup Language (RSML), enhancing the plotting process. As shown in the figures, a noticeable change in root orientation and root density was observed on day 13. Principal Component Analysis (PCA) and Multi-Dimensional Scaling (MDS) plots reveal a significant similarity between the _phyD_ mutants and the WS ecotype, especially when considering multiple phenotypes in the analysis.
 
-###
+
+
+To enable this research Sueling Moy reanalysed the CARA images using SmartRoot and AstroDart to identify new phenotypes. [Link to slide show.](https://docs.google.com/presentation/d/1llV1ZnM9-m\_QJOJk-f8KUlWGX8aGSFkVsPLguhsbm0I/edit?usp=sharing)
+
+{% embed url="https://docs.google.com/presentation/d/1llV1ZnM9-m_QJOJk-f8KUlWGX8aGSFkVsPLguhsbm0I/edit?usp=sharing" %}
 
 ### Investigating the Impact of the Col-0 phyD Mutation on Root System Architecture
 
@@ -16,7 +20,7 @@ Recent data indicates that the root system architecture of the Col-0 phyD mutant
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-**Figure X: Image analysis summary** A) infographic of the labelling method, line graphs showing root system architecture, nightinggale plot showing root tip orientation and both PCA and NMDS reductionality B) root length in mm, C) root diameter/thickness in mm.&#x20;
+**Figure X: Image analysis summary** A) infographic of the labelling method, line graphs showing root system architecture, nightingale plot showing root tip orientation and both PCA and NMDS reductionality B) root length in mm, C) root diameter/thickness in mm.&#x20;
 
 
 
