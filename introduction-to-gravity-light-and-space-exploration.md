@@ -42,8 +42,7 @@ In recent years, the application of systems biology and mathematical modelling t
 
 **Figure X1: (A)** Cellular model showing the subcellular location of Auxin transport and signaling components. **(B)** Root tip model illustrating auxin levels predicted by the reverse foundation model of auxin movement in the root and lateral apexes. Here’s a link to a [video of the model in action](https://www.youtube.com/watch?v=emd6tUy1pBo\&ab\_channel=RichardBarker).
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-**Figure X2:** Illustration showing factors that are influence transcriptional regulation during plant adaption to space flight in the presence or absence of a light vector.&#x20;
 
-###
+<figure><img src="https://lh7-us.googleusercontent.com/wwQ-wy5MnZ0M7sJyEsmSSlLxJgaRUzBl2uiVSbc6q8Q1tFkDG-l1eCd0fCdCOSLAFYaqF59HPtzwnk1Py4hS5vHCsXv_0kmaxyUu-C3bqdecVOOpoYGVZQMGDrofpgm9Foy-rgKc60JNLrNHzXPC31Ou=s2048" alt=""><figcaption></figcaption></figure>
+

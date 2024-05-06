@@ -10,6 +10,7 @@
   * [CARA roots OSDR image reanalysis](results/cara-roots-osdr-image-reanalysis.md)
   * [PIN protein expression enabled Auxin modeling using OSD-120 data](results/pin-protein-expression-enabled-auxin-modeling-using-osd-120-data.md)
   * [Hypoxia-induced dwarfing skew](results/hypoxia-induced-dwarfing-skew.md)
+  * [Skewing](results/skewing.md)
 * [Discussion: Plant-Based Life Support Systems and Root Growth in Microgravity](discussion-plant-based-life-support-systems-and-root-growth-in-microgravity.md)
 * [Conclusion and key findings.](conclusion-and-key-findings..md)
 * [References](references.md)

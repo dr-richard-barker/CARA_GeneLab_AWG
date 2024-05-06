@@ -44,9 +44,3 @@ In Arabidopsis thaliana Columbia-0 (Col-0) wild-type, it has been observed that 
 
 <figure><img src="https://lh7-us.googleusercontent.com/FDYLD7jIS9jwMbV6jH629hsXKRr-eRjZwu_xxvTHJLr1VdIZE44sICdWMHvZOfZupAQl_ys5XibfzPIp-kX69XCB89E-SonMbag4-wMmadAG0bhp7nCSI8-rOFABf8stowmQD2bnbcbTuTSqWC1e7D2z=s2048" alt=""><figcaption></figcaption></figure>
 
-
-
-<figure><img src="https://lh7-us.googleusercontent.com/wwQ-wy5MnZ0M7sJyEsmSSlLxJgaRUzBl2uiVSbc6q8Q1tFkDG-l1eCd0fCdCOSLAFYaqF59HPtzwnk1Py4hS5vHCsXv_0kmaxyUu-C3bqdecVOOpoYGVZQMGDrofpgm9Foy-rgKc60JNLrNHzXPC31Ou=s2048" alt=""><figcaption></figcaption></figure>
-
-
-
