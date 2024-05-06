@@ -120,7 +120,11 @@ Link to interactive version
 
 <table><thead><tr><th width="286">Intersecting lists</th><th width="171">Loci used in Knet-1</th></tr></thead><tbody><tr><td>root_angle|5 OSDR|3 OSDR</td><td>AT3G10340</td></tr><tr><td>root_angle|5 OSDR|3 OSDR</td><td>AT2G13540</td></tr><tr><td>root_angle|5 OSDR|3 OSDR</td><td>AT5G22880</td></tr><tr><td>root_angle|5 OSDR|3 OSDR</td><td>AT5G35590</td></tr><tr><td>root_angle|5 OSDR|3 OSDR</td><td>AT5G49360</td></tr><tr><td>root_angle|5 OSDR|3 OSDR</td><td>AT1G55580</td></tr><tr><td>root_angle|5 OSDR</td><td>AT3G23100</td></tr><tr><td>tortosity|5 OSDR</td><td>AT3G05870</td></tr><tr><td>tortosity|5 OSDR</td><td>AT5G11710</td></tr><tr><td>tortosity|5 OSDR</td><td>AT5G25220</td></tr><tr><td>tortosity|5 OSDR</td><td>AT4G37580</td></tr><tr><td>tortosity|5 OSDR</td><td>AT3G56000</td></tr></tbody></table>
 
-**Some of these loci might be invovled in the hypoxia induced skew in space flight.**&#x20;
+**Some of these loci might be involved in the hypoxia-induced skew in space flight.**&#x20;
 
 
+
+
+
+**Probably going to pin it on the ethylene signalling and COP2 circadian adjustment... tbc**&#x20;
 
