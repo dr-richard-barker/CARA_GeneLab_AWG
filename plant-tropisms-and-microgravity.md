@@ -6,7 +6,7 @@ Research into the effects of microgravity on plant development has highlighted s
 
 
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Figure X2:** Illustration showing factors that are influence transcriptional regulation during plant adaption to space flight in the presence or absence of a light vector.&#x20;
 
