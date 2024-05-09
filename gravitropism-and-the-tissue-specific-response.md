@@ -1,8 +1,10 @@
-# Gravitropism review
+# Gravitropism and the tissue specific response
 
-In order to understand and model gravitropism response we had to understand the root tip structure.&#x20;
+In order to understand and model gravitropism response we had to understand the root tip structure. Here's we're broadly assessing the single cell data sets that are available through the EBI expressino atlas. &#x20;
 
-<figure><img src=".gitbook/assets/image (14).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p><a href="https://www.annualreviews.org/search?value1=Hans+Motte&#x26;option1=author&#x26;noRedirect=true">Motte</a> et al., (2023) annual review</p></figcaption></figure>
+
+
 
 Our simple model implies that there should be \~37 cell types. We're now assessing single cell sequencing data and the number of clusters to look for tissue specific patterns.&#x20;
 

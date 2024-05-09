@@ -16,7 +16,7 @@
 
 **H3 dynamics model in the RAM.**&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Model of histone regulation within the Arabidospsi root.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Model of histone regulation within the Arabidospsi root.</p></figcaption></figure>
 
 The H3.1 decrease in the cells undergoing the last cell cycle, possibly controlled by a network of TF (E2F, ANT, KNAT etc), reprograms the chromatin before starting elongation and endoreplication. The reprogramming is also observed in the last endocycle. H3.1 decrease is associated with differentiation in the root and other organs.
 
@@ -28,9 +28,9 @@ The H3.1 decrease in the cells undergoing the last cell cycle, possibly controll
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 

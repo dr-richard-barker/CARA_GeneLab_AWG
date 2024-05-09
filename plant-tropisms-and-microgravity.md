@@ -28,6 +28,10 @@ Why is the Ler response different from the Col-0
 
 **"**Under the conditions of microgravity, a novel positive blue-light phototropic response was observed in roots of seedlings. While blue-light-based negative phototropism in roots has been extensively characterized in ground studies ([Correll and Kiss 2002](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5748516/#R12)), this positive phototropic response is greatly reduced at 0.1_g_, and effectively negated at 0.3_g_ and higher gravity levels. To date, this phototropic response has not previously been observed in the roots of _Arabidopsis_."&#x20;
 
+
+
+
+
 Need help from Joshua and Christina i think?
 
 See his original paper on it here for more information...&#x20;
@@ -48,9 +52,7 @@ See his original paper on it here for more information...&#x20;
 
 
 
-Ler-0&#x20;
-
-The effect of fractional G's on atmospheric circulation. &#x20;
+Ler-0 and its unque response to blue light and the potential effect of fractional G's on atmospheric circulation. &#x20;
 
 <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
