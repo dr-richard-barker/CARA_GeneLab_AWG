@@ -32,6 +32,14 @@ Why is the Ler response different from the Col-0
 
 
 
+## THe role of asymetric pH change in tropisms  <a href="#page-title" id="page-title"></a>
+
+## The AUX1-AFB1-CNGC14 module establishes longitudinal root surface pH profile that are involved in tropic reorientations.  <a href="#page-title" id="page-title"></a>
+
+<figure><img src="https://lh7-us.googleusercontent.com/QPHEKotZa17gXbpKjC5nLNZC5C_kcsBmxfnbdqsxKIw1nKcA20fDDXX3ktpGPOmSO4ShvnJyiesbLJh8MIzZcONfHSNq2SbYfZ2E_dAXC5NZ-KokMdxHasd48BdOJ5EYoSH-U06CF-ozLZCo3nldDv9YBA=s2048" alt=""><figcaption><p>Nelson BC Serre, Daša Wernerová, Pruthvi Vittal, Shiv Mani Dubey, Eva Medvecká, Adriana Jelínková, Jan Petrášek, <a href="http://orcid.org/0000-0001-7529-9244"> View ORCID Profile</a>Guido Grossmann, <a href="http://orcid.org/0000-0002-9767-8699"> View ORCID Profile</a>Matyáš Fendrychdoi: https://doi.org/10.1101/2022.11.23.517700</p></figcaption></figure>
+
+
+
 Need help from Joshua and Christina i think?
 
 See his original paper on it here for more information...&#x20;
