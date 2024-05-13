@@ -1,0 +1,11 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+_FINAL,GO Biological Processes,19,GO:0042537,benzene-containing compound metabolic process,19_GO:0008152 metabolic process,-4.7,58,13,18765,42,23,3,13,7,818986|818988|820196,UGT74F2|UGT74F1|PAL4,-0.79
+_FINAL,GO Biological Processes,19,GO:0009723,response to ethylene,19_GO:0050896 response to stimulus,-3,15,6.2,18765,167,23,3,13,7,829597|829913|836158,AGB1|HLS1|ALP,0
+_FINAL,GO Molecular Functions,21,GO:0046527,glucosyltransferase activity,,-2.9,14,6.1,18765,172,23,3,13,7,818986|818988|824766,UGT74F2|UGT74F1|CSLA14,0
+_FINAL,GO Biological Processes,19,GO:0031047,regulatory ncRNA-mediated gene silencing,19_GO:0048519 negative regulation of biological process,-2.9,14,5.9,18765,180,23,3,13,7,815840|831597|839081,ABH1|ESP4|THO2,0
+_FINAL,GO Biological Processes,19,GO:0019752,carboxylic acid metabolic process,19_GO:0008152 metabolic process,-2.7,5.3,4.3,18765,765,23,5,22,8.6,818986|818988|820196|821817|831039,UGT74F2|UGT74F1|PAL4|OASA2|NADP-ME2,0
+_FINAL,GO Molecular Functions,21,GO:0016757,glycosyltransferase activity,,-2.3,5.7,4,18765,574,23,4,17,7.9,814663|818986|818988|824766,QPT|UGT74F2|UGT74F1|CSLA14,0
+_FINAL,GO Biological Processes,19,GO:0010629,negative regulation of gene expression,19_GO:0048519 negative regulation of biological process,-2.2,7.6,4.2,18765,324,23,3,13,7,815840|831597|839081,ABH1|ESP4|THO2,0
+_FINAL,GO Molecular Functions,21,GO:0016758,hexosyltransferase activity,,-2.1,7.4,4.1,18765,333,23,3,13,7,818986|818988|824766,UGT74F2|UGT74F1|CSLA14,0
+_FINAL,WikiPathways,27,WP2279,Seed development,,-2.1,7.1,4,18765,343,23,3,13,7,818986|818988|838899,UGT74F2|UGT74F1|CSN5A,0
+_FINAL,GO Biological Processes,19,GO:0006520,amino acid metabolic process,19_GO:0008152 metabolic process,-2.1,7.1,4,18765,347,23,3,13,7,818986|818988|821817,UGT74F2|UGT74F1|OASA2,0
