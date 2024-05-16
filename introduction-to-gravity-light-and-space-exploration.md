@@ -46,5 +46,5 @@ In recent years, the application of systems biology and mathematical modelling t
 
 <figure><img src="https://lh7-us.googleusercontent.com/wwQ-wy5MnZ0M7sJyEsmSSlLxJgaRUzBl2uiVSbc6q8Q1tFkDG-l1eCd0fCdCOSLAFYaqF59HPtzwnk1Py4hS5vHCsXv_0kmaxyUu-C3bqdecVOOpoYGVZQMGDrofpgm9Foy-rgKc60JNLrNHzXPC31Ou=s2048" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 

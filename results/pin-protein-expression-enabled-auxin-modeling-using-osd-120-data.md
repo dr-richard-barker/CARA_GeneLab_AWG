@@ -18,7 +18,7 @@ The discussion on skewing data in ABRS & VEGGIE systems raises important questio
 
 **(B)**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

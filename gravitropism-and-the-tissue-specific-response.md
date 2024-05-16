@@ -2,7 +2,7 @@
 
 In order to understand and model gravitropism response we had to understand the root tip structure. Here's we're broadly assessing the single cell data sets that are available through the EBI expressino atlas. &#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p><a href="https://www.annualreviews.org/search?value1=Hans+Motte&#x26;option1=author&#x26;noRedirect=true">Motte</a> et al., (2023) annual review</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://www.annualreviews.org/search?value1=Hans+Motte&#x26;option1=author&#x26;noRedirect=true">Motte</a> et al., (2023) annual review</p></figcaption></figure>
 
 
 

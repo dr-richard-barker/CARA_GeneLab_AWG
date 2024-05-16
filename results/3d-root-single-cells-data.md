@@ -3,47 +3,11 @@
 **Paper on 3D root single cells data**\
 [https://onlinelibrary.wiley.com/doi/full/10.1111/ppl.14068](https://onlinelibrary.wiley.com/doi/full/10.1111/ppl.14068)\
 \
-Write up coming soon....
-
-PIN1
-
-<div>
-
-<figure><img src="../.gitbook/assets/AT1G73590-PIN1 back.jpg" alt=""><figcaption><p>PIN1</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AT1G73590-PIN1 front.jpg" alt=""><figcaption><p>PIN1</p></figcaption></figure>
-
-</div>
-
-PIN2
-
-<div>
-
-<figure><img src="../.gitbook/assets/AT5G57090-PIN2 back.jpg" alt=""><figcaption><p>PIN2</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AT5G57090-PIN2 front.jpg" alt=""><figcaption><p>PiN2</p></figcaption></figure>
-
-</div>
 
 
+## Transcription factors
 
-PIN7
-
-<div>
-
-<figure><img src="../.gitbook/assets/AT1G23080-PIN7 back (1).jpg" alt=""><figcaption><p>PIN7</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AT1G23080-PIN7 front (1).jpg" alt=""><figcaption><p>PIN7</p></figcaption></figure>
-
-</div>
-
-### zat10
+### ZAT10
 
 <div>
 
@@ -55,9 +19,7 @@ PIN7
 
 </div>
 
-
-
-**zat12**
+### **ZAT12**
 
 <div>
 
@@ -69,9 +31,111 @@ PIN7
 
 </div>
 
-Sweet
+### **MYC2**
+
+<div>
+
+<figure><img src="../.gitbook/assets/AT1G32640-MYC2 back (1).jpg" alt=""><figcaption><p>MYC2</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/AT1G32640-MYC2 front (1).jpg" alt=""><figcaption><p>MYC2</p></figcaption></figure>
+
+</div>
+
+### **ERF109**
+
+<div>
+
+<figure><img src="../.gitbook/assets/AT4G34410-ERF109 back.jpg" alt=""><figcaption><p>ERF109</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/AT4G34410-ERF109 front.jpg" alt=""><figcaption><p>ERF109</p></figcaption></figure>
+
+</div>
+
+### WRKY56
+
+<div>
+
+<figure><img src="../.gitbook/assets/AT1G64000-WRKY56 back.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/AT1G64000-WRKY56 front.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### KIN10a
+
+<div>
+
+<figure><img src="../.gitbook/assets/AT4G14330-KIN10A back.jpg" alt=""><figcaption><p>KIN10a</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/AT4G14330-KIN10A front.jpg" alt=""><figcaption><p>KIN10a</p></figcaption></figure>
+
+</div>
+
+### JAZ9
+
+<div>
+
+<figure><img src="../.gitbook/assets/AT1G70700-JAZ9 back.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/AT1G70700-JAZ9 front.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+aa
+
+## **Auxin transporters**
+
+### PIN1
+
+<div>
+
+<figure><img src="../.gitbook/assets/AT1G73590-PIN1 back.jpg" alt=""><figcaption><p>PIN1</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/AT1G73590-PIN1 front.jpg" alt=""><figcaption><p>PIN1</p></figcaption></figure>
+
+</div>
+
+### PIN2
+
+<div>
+
+<figure><img src="../.gitbook/assets/AT5G57090-PIN2 back.jpg" alt=""><figcaption><p>PIN2</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/AT5G57090-PIN2 front.jpg" alt=""><figcaption><p>PiN2</p></figcaption></figure>
+
+</div>
+
+### PIN7
+
+<div>
+
+<figure><img src="../.gitbook/assets/AT1G23080-PIN7 back (1).jpg" alt=""><figcaption><p>PIN7</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/AT1G23080-PIN7 front (1).jpg" alt=""><figcaption><p>PIN7</p></figcaption></figure>
+
+</div>
 
 
+
+## Sucrose and GA transporters
+
+### SWEET
 
 <div>
 
@@ -83,7 +147,7 @@ Sweet
 
 </div>
 
-Sweet2
+### SWEET2
 
 <div>
 
@@ -97,35 +161,7 @@ Sweet2
 
 
 
-**ERF109**
-
-
-
-<div>
-
-<figure><img src="../.gitbook/assets/AT4G34410-ERF109 back.jpg" alt=""><figcaption><p>ERF109</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AT4G34410-ERF109 front.jpg" alt=""><figcaption><p>ERF109</p></figcaption></figure>
-
-</div>
-
-
-
-**MYC2**
-
-<div>
-
-<figure><img src="../.gitbook/assets/AT1G32640-MYC2 back (1).jpg" alt=""><figcaption><p>MYC2</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AT1G32640-MYC2 front (1).jpg" alt=""><figcaption><p>MYC2</p></figcaption></figure>
-
-</div>
-
-
+### ABA receptor
 
 ### PYL9&#x20;
 
@@ -139,23 +175,9 @@ Sweet2
 
 </div>
 
+### Peroxidase
 
-
-
-
-WRKY56
-
-<div>
-
-<figure><img src="../.gitbook/assets/AT1G64000-WRKY56 back.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AT1G64000-WRKY56 front.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-Per11
+### PER11
 
 <div>
 
@@ -167,23 +189,9 @@ Per11
 
 </div>
 
-JAZ9
+## NADPH oxidase
 
-<div>
-
-<figure><img src="../.gitbook/assets/AT1G70700-JAZ9 back.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AT1G70700-JAZ9 front.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-
-
-RBOHA
-
-
+### RBOHA
 
 <div>
 
@@ -195,11 +203,7 @@ RBOHA
 
 </div>
 
-
-
-RBOHB
-
-
+### RBOHB
 
 <div>
 
@@ -211,9 +215,7 @@ RBOHB
 
 </div>
 
-
-
-RBOHC
+### RBOHC
 
 <div>
 
@@ -225,9 +227,7 @@ RBOHC
 
 </div>
 
-
-
-RBOHD
+### RBOHD
 
 <div>
 
@@ -239,9 +239,7 @@ RBOHD
 
 </div>
 
-
-
-RBOHF
+### RBOHF
 
 <div>
 
@@ -255,7 +253,9 @@ RBOHF
 
 
 
-cat1
+## Catalase
+
+### CAT1
 
 <div>
 
@@ -267,9 +267,7 @@ cat1
 
 </div>
 
-
-
-cat2
+### CAT2
 
 <div>
 
@@ -281,7 +279,9 @@ cat2
 
 </div>
 
-CPK25
+## An example Calcium regulated kinase that might be invovled in root hair regulation
+
+### CPK25
 
 <div>
 
@@ -293,21 +293,9 @@ CPK25
 
 </div>
 
-Kin10a
+## The effect of the _erecta_ mutation on STOMAGEN might be the key to understanding tropisms in space.
 
-<div>
-
-<figure><img src="../.gitbook/assets/AT4G14330-KIN10A back.jpg" alt=""><figcaption><p>KIN10a</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AT4G14330-KIN10A front.jpg" alt=""><figcaption><p>KIN10a</p></figcaption></figure>
-
-</div>
-
-
-
-Erecta
+### ERECTA
 
 <div>
 
@@ -319,7 +307,7 @@ Erecta
 
 </div>
 
-Stomagen "AT4G1270"
+### Stomagen "AT4G1270"
 
 <div>
 
