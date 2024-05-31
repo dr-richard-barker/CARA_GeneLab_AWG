@@ -1,0 +1,103 @@
+Additional file 1: Table S2. Comparing different growth angles to vertical within WS,,,,,
+Gene,Gene Name,"BKWD
+WS","FWD
+WS","Skew
+Gene
+Candidates",Gene Annotation
+p < 0.05; q < 0.05,,,,,
+At5g62330,,1.114,0.587,,Plant invertase/pectin methylesterase inhibitor superfamily protein
+At2g05530,,1.050,0.399,,Glycine-rich protein family
+At1g60470,GOLS4,-1.014,0.054,,Galactinol synthase 4
+At3g27400,,-1.016,-0.583,,Putative pectate lyase 11
+At3g42725,,-1.018,-0.541,,Putative membrane lipoprotein
+At4g11190,DIR13,-1.028,0.111,Y,Dirigent protein 13 
+At5g16030,,-1.040,-0.867,,Unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT3G02500.1)
+At4g12470,AZI1,-1.041,-0.753,,pEARLI1-like lipid transfer protein 1 
+At1g30515,,-1.047,-0.785,,unknown protein; endomembrane system
+At5g14920,GASA14,-1.050,-0.604,,Gibberellin-regulated protein 14; lateral root expression; ATPase interaction and anion-transporting ATPase
+At4g02330,PME41,-1.052,-0.238,Y,Probable pectinesterase/pectinesterase inhibitor 41 
+At1g77520,,-1.087,-0.216,,O-methyltransferase family protein; proton acceptor
+At2g34490,CYP710A2,-1.087,-0.419,,Cytochrome P450 710A2 
+At1g13420,SOT8,-1.090,0.324,,Cytosolic sulfotransferase 8 
+At5g53880,,-1.097,-0.499,,"Unknown protein; mitochondrion, plasma membrane"
+At3g23295,LSH4,-1.097,-0.682,,Protein LIGHT-DEPENDENT SHORT HYPOCOTYLS 4 
+At4g03270,CYCD6-1,-1.116,-0.958,,Putative cyclin-D6-1 
+At3g22120,CWLP,-1.157,-0.624,,cell wall-plasma membrane linker protein; callose deposition; lipid transport; microsporogenesis
+At5g04370,NAMT1,-1.161,-0.291,,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 
+At1g52410,TSA1,-1.178,-0.233,,TSK-associating protein 1; involved in calcium binding and development in the absence of light
+At1g07880,MPK13,-1.179,-0.663,,Mitogen-activated protein kinase 13 
+At1g10640,,-1.196,-0.651,,Pectin lyase-like superfamily protein 
+At2g01610,,-1.206,-0.427,,Plant invertase/pectin methylesterase inhibitor superfamily protein 
+At4g38770,PRP4,-1.229,-0.722,,Proline-rich protein 4; expressed in roots during early lateral root formation; involved in seed development and is localized to the cell wall 
+At1g62560,FMOGS-OX3,-1.234,-0.731,,Flavin-containing monooxygenase FMO GS-OX3; Catalyzes the conversion of methylthioalkyl glucosinolates of any chain length into methylsulfinylalkyl glucosinolates
+At1g06520,GPAT1,-1.243,-0.911,,Glycerol-3-phosphate acyltransferase 1 
+At4g19810,,-1.245,-0.240,,Glycosyl hydrolase family protein with chitinase insertion domain 
+At1g72140,NPF5.12,-1.264,-0.376,,Protein NRT1/ PTR FAMILY 5.12; proton-dependent oligopeptide transporter
+At1g52690,LEA7,-1.265,-0.050,,Late embryogenesis abundant protein (LEA) family protein; involved in freezing and desiccation tolerance of soluble proteins in leaves
+At5g14650,,-1.267,-0.512,Y,Pectin lyase-like superfamily protein 
+At4g14060,,-1.275,-0.358,,Polyketide cyclase/dehydrase and lipid transport superfamily protein
+At5g38000,,-1.302,-0.353,,Zinc-binding dehydrogenase family protein
+At3g45960,EXLA3,-1.302,-0.542,,Expansin-like A3 
+At4g36430,PER49,-1.309,-0.526,,"Peroxidase 49; removal of H2O2; auxin catabolism, binding sites for heme b and 2 calcium ions per subunit"
+At1g52560,HSP26.5,-1.318,0.009,,"26.5 kDa heat shock protein, mitochondrial "
+At5g28510,BGLU24,-1.352,-0.248,,Beta-glucosidase 24 
+At4g22730,,-1.374,-0.465,,Leucine-rich repeat protein kinase family protein 
+At3g02480,CPUORF9,-1.384,0.683,,Late embryogenesis abundant protein (LEA) family protein / conserved peptide upstream open reading frame 9
+At5g06720,PER53,-1.417,-0.927,,Peroxidase 53; a root-expressed peroxidase that responds to nematode infection
+At5g17700,,-1.510,-0.787,,MATE efflux family protein 
+At2g18470,PERK4,-1.512,-0.558,,Proline-rich receptor-like protein kinase PERK4 
+At2g33850,,-1.717,-0.769,,unknown protein; endomembrane system
+At4g37800,XTH7,-1.725,-0.892,,Probable xyloglucan endotransglucosylase/hydrolase protein 7 
+At1g65490,,-1.762,-0.994,,unknown protein; endomembrane system
+At5g06730,PER54,-1.772,-0.843,,Peroxidase 54 
+At1g69230,SP1L2,-1.864,-0.582,,Protein SPIRAL1-like 2 
+At5g24780,VSP2/VSP1,-2.009,-0.663,,"Vegetative storage protein 1; may fxn as somatic storage proteing during early seedling development; involved in wounding, JA, and gravity responses"
+At1g69880,TRX8,-2.162,-0.930,,Thioredoxin H8 
+At5g48485,DIR1,-2.579,-0.932,,Putative lipid-transfer protein DIR1 
+At4g22753,SMO1-3,-1.271,-1.035,,Methylsterol monooxygenase 1-3 
+At4g03210,XTH9,-1.433,-1.025,,Xyloglucan endotransglucosylase/hydrolase protein 9; involved in cell wall reorganization and shade avoidance based growth
+At4g12480,EARLI1,-2.093,-1.392,,"Lipid transfer protein EARLI 1; may improve freezing survival; lignin synthesis, ABA dependent; biotic resistance by increasing membrane permeability"
+At2g18140,PER15/PER14,-2.143,-1.033,,Peroxidase 15 
+At5g44400,,-2.172,-1.167,,FAD-binding Berberine family protein 
+At1g74670,GASA6,-2.329,-1.815,,"Gibberellin-regulated protein 6; induced by GA and repressed by ABA, sugars, and tandem zinc fingers "
+At3g13784,ATCWINV5,-3.416,-1.480,,Cell wall invertase 5; involved in vegetative apoplastic invertase expression 
+At3g47340,ASN1,-1.986,2.080,Y*,Asparagine synthetase [glutamine-hydrolyzing] 1; involved in darkness responses and sucrose starvation responses
+At3g28320,,-0.089,1.849,,Protein of unknown function (DUF677) 
+At2g25150,,-0.050,1.839,Y*,HXXXD transferase family protein involved in transferring acyl groups other than amino-acyl groups
+At4g26260,MIOX4,-0.048,1.570,Y*,Inositol oxygenase 4 
+At5g66780,,-0.777,1.556,Y*,Unknown protein
+At5g26260,,-0.584,1.491,,TRAF-like family protein 
+At3g28310,,0.056,1.430,Y*,Protein of unknown function (DUF677) 
+At4g24890,PAP24,0.065,1.414,Y*,Probable inactive purple acid phosphatase 24 
+At5g28520,JAL40,-0.274,1.214,,Jacalin-related lectin 40 
+At5g02020,SIS,0.218,1.200,Y*,Encodes a protein involved in salt tolerance; Salt Induced Serine Rich
+At2g38230,PDX1L4/PDX11,0.161,1.111,,"Pyridoxal 5'-phosphate synthase PDX1-like 4; catalyzes formation of pyridoxal 5'-phosphate from RBP, G3P, and ammonia (provided by PDX2); indirectly resists single oxygen-generating photosensitizers"
+At4g25410,BHLH126,-0.385,1.015,,Basic helix-loop-helix DNA-binding superfamily protein; root specific protein with transcription factor activity and G-box and E-box binding prediction 
+p < 0.05 only,,,,,
+At5g56100,,1.098,0.948,,Glycine-rich protein / oleosin
+At3g23880,,1.083,0.760,,F-box/kelch-repeat protein
+At1g09310,,-1.112,0.040,Y,"Protein of unknown function, DUF538; interacts with multiple LTPs (5, AT2G15050 "
+At3g48740,SWEET11,1.758,1.804,Y*,Bidirectional sugar transporter; involved in sucrose transport and may be involved in light signaling in roots in spaceflight
+At5g23660,SWEET12,1.472,1.306,,Bidirectional sugar transporter SWEET12; involved in sucrose efflux and seed filling 
+At1g21100,,1.387,1.427,,O-methyltransferase family protein; proton acceptor active site
+At1g63180,UGE3,1.072,1.225,,Bifunctional UDP-glucose 4-epimerase and UDP-xylose 4-epimerase 3; interconversion between UDP-glucose and UDP-galactose and the interconversion between UDP-arabinose and UDP-xylose
+At2g33830,,1.020,1.199,,Dormancy/auxin associated family protein 
+At1g52820,,-1.407,-1.107,,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein 
+At3g60140,DIN2,-0.725,2.214,Y*,Beta-glucosidase; involved in glycoside hydrolase and is induced after darkness 
+At4g35770,SEN1,-0.194,2.100,Y*,Senescence-associated gene that is strongly induced by phosphate starvation. Transcripts are differentially regulated at the level of mRNA stability at different times of day. mRNAs are targets of the mRNA degradation pathway mediated by the downstream (DST) instability determinant.
+At1g64660,MGL,0.986,1.748,,"Methionine gamma-lyase; degradation of methionine to α-ketobutyrate, methanethiol, and ammonia; reverse trans-sulfuration; involved in the regulation of methionine metabolism and resistance to nematodes "
+At2g22990,SCPL8,1.105,1.531,,Serine carboxypeptidase-like 8; acyltransferase to form sinapate ester sinapoylmalate and sinapoyl glucoside
+At1g10070,BCAT2,-0.127,1.264,,"Branched-chain-amino-acid aminotransferase 2, chloroplastic; 2-oxo acis to branched-chain amino acids (L-Leu, L-Ile, L-Val)"
+At1g80440,,0.986,1.246,,F-box/kelch-repeat protein
+"At5g49450
+At5g49448",BZIP1/CPUORF4,0.631,1.188,,Basic leucine zipper 1; Conserved peptide upstream open reading frame 4 
+"At1g15040
+At1g15045",,0.338,1.060,,Class I glutamine amidotransferase-like superfamily protein
+At4g27450,,0.725,1.037,,Aluminium induced protein with YGL and LRDR motifs
+At2g18050,HIS1-3,0.373,1.027,Y,histone H1-3
+At4g10310,HKT1,0.568,1.021,Y*,Sodium transporter HKT1 
+At5g22555,,-0.585,-1.045,,unknown protein
+At5g38930,,0.124,-1.160,,Germin-like protein subfamily 1 member 10
+At5g14740,BCA2,-0.836,-1.173,,"Beta carbonic anhydrase 2, chloroplastic"
+At3g01500,BCA1,-0.879,-1.321,,"Beta carbonic anhydrase 1, chloroplastic"
+"List of genes, fold changes, and annotations from Figure 2b heat map in heat map order. Highlighted cells are significant, where red indicates upregulation and blue indicates downregulation. Significance cutoffs are shown in the table above. Upper portion: |log2(fc)| > 1; p < 0.05; q < 0.05. Lower portion: |log2(fc)| > 1; p < 0.05.",,,,,
