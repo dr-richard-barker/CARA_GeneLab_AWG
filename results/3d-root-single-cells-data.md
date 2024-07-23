@@ -59,11 +59,11 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/AT1G64000-WRKY56 back.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/AT1G64000-WRKY56 back.jpg" alt=""><figcaption><p>WRKY56</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/AT1G64000-WRKY56 front.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/AT1G64000-WRKY56 front.jpg" alt=""><figcaption><p>WRKY56</p></figcaption></figure>
 
 </div>
 
@@ -83,11 +83,11 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/AT1G70700-JAZ9 back.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/AT1G70700-JAZ9 back.jpg" alt=""><figcaption><p>JAZ9</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/AT1G70700-JAZ9 front.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/AT1G70700-JAZ9 front.jpg" alt=""><figcaption><p>JAZ9</p></figcaption></figure>
 
 </div>
 
