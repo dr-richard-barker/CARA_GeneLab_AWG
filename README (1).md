@@ -20,7 +20,9 @@
 
 **Key abbreviations:**&#x20;
 
-Fold change = FL vs GC
+FC = Fold change&#x20;
+
+Flight vs ground = FL vs GC
 
 
 
