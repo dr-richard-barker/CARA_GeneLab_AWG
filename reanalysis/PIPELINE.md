@@ -7,10 +7,20 @@ producing the figures and data for an **npj Microgravity** paper + a **Zenodo** 
 > Status: planning scaffold. Steps marked ⬜ are to do; fill in exact accessions, versions,
 > and numbers as you run them.
 
-## 0. Dataset
-- **OSD-120 / GLDS-120** — *Characterizing Arabidopsis Root Attributes (CARA)*, ISS root-tip RNA-seq (Paul & Ferl, UF). ⬜ confirm accession + factor levels in [OSDR](https://osdr.nasa.gov/).
-- Factors: **spaceflight vs ground**, **light vs dark**, genotypes **Col-0 (WT)**, **Col-0 *phyD***, **WS**.
-- License to reuse: NASA OSDR (public); this reanalysis is CC0.
+## 0. Dataset — confirmed from OSDR (2026-07-02)
+- **OSD-120** — *"Genetic dissection of the Arabidopsis spaceflight transcriptome: Are some
+  responses dispensable for the physiological adaptation of plants to spaceflight?"* (Paul,
+  Ferl *et al.*), NASA OSDR. *Organism:* *Arabidopsis thaliana*. **90 samples.**
+- **Two assays:** **RNA-Seq** (transcription profiling) **and Photography / image analysis** —
+  the imaging supports the physiology/validation arm in the same study.
+- **Factors (confirmed levels):**
+  | Factor | Levels |
+  |---|---|
+  | **Ecotype** | Col-0 · Col-0 PhyD · Wassilewskija (WS) |
+  | **Treatment** | Light · Dark |
+  | **Spaceflight** | Space Flight · Ground Control |
+- **API:** metadata `https://osdr.nasa.gov/osdr/data/osd/meta/120` · files `…/osdr/data/osd/files/120`.
+- License: NASA OSDR public; this reanalysis is CC0.
 
 ## 1. Retrieve + verify (reproducibly)
 - ⬜ Pull raw FASTQ **and** GeneLab's processed counts + metadata (ISA-Tab) from OSDR via the OSDR API / `dpapi`.
@@ -57,6 +67,12 @@ OSD-120 is bulk root-tip RNA-seq, so map genes to cell types:
 - ⬜ All steps as scripts (R + Python), pinned environment (`renv` / `conda` / container).
 - ⬜ Figure-regeneration script → the manuscript figures.
 - ⬜ **Zenodo** deposit (GitHub→Zenodo release) for a DOI; cite OSD-120 and the Virtual Root DOI.
+
+## Starter scripts (`reanalysis/scripts/`)
+Runnable skeletons — point them at the OSDR counts + sample table and go:
+- **`01_deseq2.R`** — DESeq2 flight-vs-ground DE within each Ecotype × Treatment → `results/de/`.
+- **`02_auxin_machinery.R`** — extract PIN/AUX1/LAX/TIR1/ARR5 fold-changes (by AGI) → `results/auxin_machinery_FC.csv` + bar plot; prints **PIN3/PIN7**.
+- **`03_pin37_to_model.R`** — convert the measured **PIN3/7 fold-change → the Virtual Root `pin37`** parameter and write a **shareable µG model URL** for Figure 3.
 
 ## Tooling summary
 `OSDR API` · `FastQC/MultiQC` · `Trim Galore/fastp` · `STAR + RSEM` (or `Salmon`) · `DESeq2` ·
