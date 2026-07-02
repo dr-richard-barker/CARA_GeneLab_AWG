@@ -1,0 +1,3 @@
+# Large OSDR downloads — fetch with the pipeline, don't commit
+data/
+*.csv.gz

@@ -3,9 +3,10 @@
 **Working title:** *Spaceflight suppression of PIN3/PIN7 confines auxin to the quiescent
 centre: integrating the CARA root transcriptome with a mechanistic auxin-transport model*
 
-**One-line thesis:** the CARA (OSD-120) ISS transcriptome shows PIN3/PIN7 are down in
-spaceflight; a cell-based auxin-transport model shows that this **confines auxin to the QC**,
-mechanistically linking the flight transcriptome to the observed root-growth phenotypes.
+**One-line thesis:** the OSD-120 ISS transcriptome shows PIN3/PIN7 are suppressed in
+spaceflight in a **light- and genotype-dependent** way (clearest in dark-grown Col-0,
+`pin37 ≈ 0.59`); a cell-based auxin-transport model shows that this **confines auxin to the
+QC**, mechanistically linking the flight transcriptome to the observed root-growth phenotypes.
 
 ## Abstract (≤ 150 words)
 Gravity shapes root growth via PIN-mediated auxin transport. How spaceflight rewires this at
@@ -25,7 +26,7 @@ list into a testable mechanism and a reusable hypothesis engine for space-plant 
 
 ## 2. Results
 - **R1 — Spaceflight reprograms the root-tip transcriptome.** DE overview; light × genotype structure; PCA/volcano. *(Fig 1)*
-- **R2 — The auxin transport machinery is remodelled: PIN3/PIN7 down.** Fold-changes for PIN/AUX1-LAX/ARF/ARR5, tissue-mapped to the columella. *(Fig 2)*
+- **R2 — The auxin transport machinery is remodelled: PIN3/PIN7 down (condition-dependent).** Real fold-changes in [`results/OSD120_PIN37_findings.md`](../results/OSD120_PIN37_findings.md): columella PIN3/PIN7 suppressed most in **dark-grown Col-0** (PIN3 −0.65, PIN7 −0.86) and *phyD*/light; PHYD & ecotype modulate the response. *(Fig 2)*
 - **R3 — A microgravity auxin-transport model predicts QC confinement.** Set model PIN3/7 to the measured suppression → auxin shifts from lateral cap into the QC (quantified). *(Fig 3 — the µG vs 1 g maps)*
 - **R4 — Predictions match imaging and physiology.** Predicted confinement vs DII-VENUS/R2D2 pattern and vs measured skewing/dwarfing/root-trait ANOVAs. *(Fig 4)*
 - **R5 — Functional & epigenetic context.** GO/PPI/Metascape enrichment, skewing loci, hypoxia/dwarfing links. *(Fig 5)*
