@@ -1,0 +1,12 @@
+name: cara-reanalysis
+channels: [conda-forge, bioconda]
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - r-base>=4.2
+  - r-tidyverse
+  - r-readr
+  - bioconductor-deseq2
+  # optional (from-raw pipeline): fastqc, multiqc, trim-galore, star, rsem, salmon

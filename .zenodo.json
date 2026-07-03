@@ -1,0 +1,22 @@
+{
+  "title": "CARA (OSD-120) spaceflight root transcriptome reanalysis integrated with the Virtual Root auxin model",
+  "description": "<p>Reanalysis of the CARA <em>Arabidopsis thaliana</em> root-tip RNA-seq (NASA OSDR OSD-120) integrated with an open, cell-based auxin-transport model (the Virtual Root). Shows that spaceflight suppresses columella PIN3/PIN7 in a light- and genotype-dependent manner, and that this confines auxin toward the quiescent centre; and that gravitropic auxin asymmetry scales with gravity level (microgravity, Moon, Mars, Earth, 2 g). Contains the reproducible reanalysis pipeline and scripts, extracted PIN/AUX1 fold-changes, the microgravity/partial-gravity model figures, and a peer-review manuscript draft. Public domain (CC0).</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    { "name": "Barker, Richard", "affiliation": "Collaborative Science Environment (CoSE)" }
+  ],
+  "keywords": [
+    "spaceflight", "microgravity", "partial gravity", "Arabidopsis thaliana", "auxin",
+    "PIN3", "PIN7", "gravitropism", "reverse fountain", "root tip", "quiescent centre",
+    "OSD-120", "NASA OSDR", "GeneLab", "astrobotany", "npj Microgravity", "systems biology"
+  ],
+  "related_identifiers": [
+    { "identifier": "https://osdr.nasa.gov/bio/repo/data/studies/OSD-120", "relation": "isDerivedFrom", "scheme": "url" },
+    { "identifier": "https://github.com/dr-richard-barker/virtual-root", "relation": "references", "scheme": "url" },
+    { "identifier": "https://doi.org/10.1038/nature06215", "relation": "cites", "scheme": "doi" },
+    { "identifier": "https://doi.org/10.1105/tpc.113.119495", "relation": "cites", "scheme": "doi" }
+  ],
+  "notes": "TODO before minting the DOI: confirm the full creator list, affiliations and ORCIDs, and acknowledge the CARA science team / OSDR Analysis Working Group."
+}
