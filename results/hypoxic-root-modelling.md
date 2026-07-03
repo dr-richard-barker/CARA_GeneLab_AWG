@@ -31,10 +31,22 @@ hypoxia:
 - This is complementary to the PIN3/7 route (µG → auxin confined to the QC): PIN3/7 loss
   changes *where* auxin sits; hypoxia changes *how the root grows* in response to it.
 
+## The short-fat root emerges from an auxin→growth rule
+
+![Emergent growth coupling](../figures/fig5_growth_coupling.png)
+
+**Figure 5.** Coupling the auxin field to growth (`reanalysis/scripts/06_growth_model.py`).
+Each cell grows by turgor at an **O₂-limited, auxin-gated** rate; a single anisotropy
+parameter **α** partitions that volume growth **axial vs radial**. In air (α high, full O₂)
+the root grows **long and thin** (L/W ≈ 99); under spaceflight **hypoxia** (α low, reduced
+O₂ → ethylene) the *same rule* yields a **short, fat** root (L/W ≈ 41) that is also shorter
+overall (growth-curve, right). **The short-fat phenotype is now an emergent output of the
+model, not an imposed shape.**
+
 ## Next modelling steps
-- **Couple auxin → growth:** add a simple elongation rule (axial strain ∝ auxin below a
-  threshold) and an O₂/hypoxia field, so the root *develops* the short-fat shape dynamically
-  rather than being drawn that way.
-- **Ethylene node:** add an ethylene variable (hypoxia-induced) that damps anisotropic growth.
-- **Validate:** compare predicted length/diameter/surface/volume ratios to the CARA
-  physiology ANOVAs already in `results/`, and to root morphometrics (RSML / RootNav).
+- **Feed the real profile:** drive growth with the 2-D transport model's axis auxin gradient
+  (rather than the analytic profile used here).
+- **Explicit ethylene node:** a hypoxia-induced ethylene variable that lowers α (currently α
+  and O₂ are set by hand per condition).
+- **Validate:** compare predicted length/diameter/surface/volume ratios to the CARA physiology
+  ANOVAs in `results/` and to root morphometrics (RSML / RootNav).

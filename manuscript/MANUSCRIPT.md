@@ -80,6 +80,19 @@ redistributes auxin.
 PIN3/7 = 59 %). (c) QC:lateral-cap auxin ratio vs columella PIN3/7 level; dashed line = the
 measured value.
 
+### 2.4 The short-fat hypoxic phenotype emerges from an auxin→growth rule
+Spaceflight roots are also short and fat — a **hypoxia** phenotype (no convection → water
+films → low O₂ → ethylene). Coupling the auxin field to a turgor-growth rule, in which an
+anisotropy parameter partitions volume growth axial vs radial, reproduces this: in air the
+root grows **long and thin** (L/W ≈ 99), whereas under hypoxia (lower anisotropy + O₂) the
+*same rule* yields a **short, fat** root (L/W ≈ 41), also shorter overall (Fig 5). The
+short-fat shape is thus an **emergent** output of the model, not an imposed geometry.
+
+![Fig 5 — auxin→growth](../figures/fig5_growth_coupling.png)
+
+**Figure 5.** Emergent root shape (left) and root length over time (right) for normoxic vs
+spaceflight-hypoxic growth from the coupled auxin→growth model.
+
 ## 3. Discussion
 Two independent routes converge on a root tip that cannot build a directional auxin gradient
 in spaceflight: **(i)** loss of the *biophysical* cue (no statolith sedimentation → no PIN

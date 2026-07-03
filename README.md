@@ -28,14 +28,14 @@ root growth that follows.
 - [x] **Manuscript draft** ([`manuscript/MANUSCRIPT.md`](manuscript/MANUSCRIPT.md)) + FAIR metadata (`.zenodo.json`, `CITATION.cff`).
 - [x] Short-fat **hypoxic-root** visualisation + explanation (Fig 4).
 - [ ] From-raw **DESeq2** rerun to confirm GeneLab's table (`reanalysis/scripts/01_deseq2.R`).
-- [ ] Couple **auxin → growth** so the short-fat shape develops dynamically.
+- [x] Couple **auxin → growth** so the short-fat shape **emerges** dynamically (Fig 5).
 - [ ] Complete author list / ORCIDs → **mint the Zenodo DOI** (enable repo in Zenodo, then release).
 
 ## Repository map
 | Path | What |
 |---|---|
 | [`manuscript/`](manuscript/) | `MANUSCRIPT.md` (peer-review draft) + `OUTLINE.md` |
-| [`figures/`](figures/) | Fig 1 (gravity series) · Fig 2 (PIN carriers) · Fig 3 (µG confinement) · Fig 4 (hypoxic root) |
+| [`figures/`](figures/) | Fig 1 (gravity series) · Fig 2 (PIN carriers) · Fig 3 (µG confinement) · Fig 4 (hypoxic root) · Fig 5 (auxin→growth) |
 | [`reanalysis/`](reanalysis/) | `PIPELINE.md`, `environment.yml`, `scripts/`, `README.md` (FAIR + reproduce) |
 | [`results/`](results/) | extracted tables, findings, enrichment, physiology ANOVAs |
 | `*.md` | original CARA narrative chapters |
