@@ -80,36 +80,40 @@ redistributes auxin.
 PIN3/7 = 59 %). (c) QC:lateral-cap auxin ratio vs columella PIN3/7 level; dashed line = the
 measured value.
 
-### 2.4 Validation against measured spaceflight root morphometrics
-CARA/OSD-120 is transcriptome-only, so we validate against the best available quantitative
-spaceflight root morphometrics from the same group's sibling flight **APEX-03-2 / TAGES-ISA**
-([Califar et al. 2020](https://doi.org/10.3389/fpls.2020.00239); shares Col-0 and WS with CARA).
-The **model's central prediction is corroborated**: in microgravity the tip auxin maximum is
-symmetric with **no lateral direction** (Fig 1), which predicts a **loss of a consistent
-gravitropic setpoint** rather than a stalled root. The measured phenotype matches this — flight
-roots continue to grow and **skew**, but with a **genotype-dependent direction and markedly
-increased directional variance** (e.g. *spr1* skewing enhanced in flight, *p* = 0.004; greater
-variance across all genotypes), while **primary-root length is largely unchanged** (Col-0 and
-*spr1* not significant; WS shorter only at 8 d, *p* = 2 × 10⁻⁴). See
+### 2.4 The measured phenotype is loss of directional organisation — as the model predicts
+CARA/OSD-120 is transcriptome-only, so we validate against the CARA-lineage **images**,
+re-measured (light and dark separated — a split the published root-length analysis pools) in the
+sibling repo [`image-analysis-software-and-R-codes`](https://github.com/dr-richard-barker/image-analysis-software-and-R-codes).
+The model's **central prediction is confirmed**: in microgravity the tip auxin maximum is symmetric
+with **no lateral direction** (Fig 1), predicting roots that keep growing but **lose a consistent
+direction**. In the powered **OSD-121** seedling set (13 flight / 13 ground dishes) root-angle
+**dispersion rises in flight (51.2° vs 45.3°, *p* < 10⁻⁴)**; the **ABRS** flight time-lapse shows
+the same direction (dispersion 59.1° vs 57.7°; deviation-from-vertical 51.7° vs 48.7°); and a
+ground agar↔phytogel skew assay shows that removing *any* organising vector (the gel-surface
+interaction *or* gravity) drives the same shift from handed skewing to dispersed, non-handed
+growth. Crucially, the apparent flight "size reduction" in OSD-121 was largely a **magnification
+artifact** — in calibrated mm² the plant-area difference vanished (*p* = 0.30) — so **angle
+dispersion, not size, is the robust phenotype**. Full scorecard:
 [`results/model_vs_morphometrics_validation.md`](../results/model_vs_morphometrics_validation.md).
 
-### 2.5 The short-fat hypoxic phenotype: an emergent prediction, not yet corroborated
+### 2.5 The short-fat hypoxic phenotype: an illustrative mechanism, not corroborated
 Spaceflight can also drive a **hypoxia** phenotype (no convection → water films → low O₂ →
-ethylene → radial swelling). Coupling the auxin field to a turgor-growth rule, in which an
-anisotropy parameter partitions volume growth axial vs radial, makes a **short, fat** root emerge
-from the *same* rule that gives a long, thin root in air (Fig 5). We stress this is a
-**prediction from general hypoxia biology, not a CARA/APEX result**: measured primary-root length
-is largely unchanged in flight and root **diameter was never measured**, so the modelled aspect
-ratio (L/W ≈ 99 → 41) is **illustrative and uncalibrated** — the anisotropy parameter and display
-width-scale set those numbers. Testing it needs root **width** from the flight plate images (RSML/
-RootNav) and is the clearest next measurement.
+ethylene → radial swelling), and coupling the auxin field to a turgor-growth rule makes a short,
+fat root emerge from the *same* rule that gives a long, thin root in air (Fig 5). The direct
+morphometry, however, **does not support it**: RootNav re-measurement shows flight roots are
+**modestly shorter in all six genotype × light conditions** (−1 % to −23 %) but **thinner, not
+fatter, in 4 of 6** (wider only in *phyD*-light), so roots become *smaller*, not *short-and-fat*,
+and any aspect-ratio change is genotype × light-dependent. Fig 5's aspect ratio (L/W ≈ 99 → 41) is
+therefore **illustrative** — set by the anisotropy parameter and a display width-scale — not a
+measured result; we retain it as a candidate mechanism whose radial-swelling signature the data do
+not (yet) show.
 
 ![Fig 5 — auxin→growth](../figures/fig5_growth_coupling.png)
 
 **Figure 5.** Emergent root shape (left) and root length over time (right) for normoxic vs
 spaceflight-hypoxic growth from the coupled auxin→growth model. Aspect-ratio values are
-illustrative (set by the anisotropy parameter and a display width-scale), not calibrated to
-measured morphometrics.
+illustrative (set by the anisotropy parameter and a display width-scale); the measured spaceflight
+phenotype is loss of directional organisation (§2.4), not a robust short-fat shape change.
 
 ## 3. Discussion
 Two independent routes converge on a root tip that cannot build a directional auxin gradient
@@ -128,12 +132,13 @@ auxin imaging.
 
 **Limitations.** OSD-120 is bulk root-tip RNA-seq (tissue assignment of PIN3/7 to the
 columella uses prior atlases); the model is an idealised 2-D root; and the flight PIN3/7
-effect, though real, is modest at the measured fold-change. CARA itself carries no
-morphometric measurements, so growth predictions are validated against a sibling flight
-(APEX-03-2); the directional (skewing/variance) prediction is supported there, but the
-short-fat prediction is untested because flight root **width** was not measured and length is
-largely unchanged (§2.4–2.5). Single-cell data, root-width morphometry from the flight images,
-and partial-g runs would sharpen and test the model.
+effect, though real, is modest at the measured fold-change. The morphometric validation (§2.4–2.5)
+rests on re-measured CARA-lineage images: OSD-121 is powered for the angle result but the RootNav
+length/diameter table reports **condition means without per-root replication statistics here**
+(formal ANOVA lives in the CARA `methods/` physiology reports), and OSD-121's absolute sizes are
+calibration-sensitive. The directional prediction is robust; the short-fat prediction is not borne
+out by the diameter data. Single-cell data, replicated root-width morphometry, and partial-g runs
+would sharpen and further test the model.
 
 ## 4. Methods
 - **Reanalysis:** OSD-120 processed data (GeneLab consensus pipeline) → flight-vs-ground
@@ -153,6 +158,6 @@ and partial-g runs would sharpen and test the model.
 
 ## References
 Grieneisen *et al.* (2007) *Nature* 449:1008 · Band *et al.* (2014) *Plant Cell* 26:862 ·
-Paul, Ferl *et al.* OSD-120 · Califar *et al.* (2020) *Front. Plant Sci.* 11:239 (APEX-03-2
-root morphometrics) · Brunoud *et al.* (2012) *Nature* 482:103 · Liao *et al.* (2015)
-*Nat. Methods* 12:207. ⬜ complete reference list at submission.
+Paul, Ferl *et al.* OSD-120 · Paul, Amalfitano & Ferl (2012) *BMC Plant Biol.* 12:232 (ABRS
+flight root growth) · OSD-121 (NASA OSDR; seedling imaging) · Brunoud *et al.* (2012) *Nature*
+482:103 · Liao *et al.* (2015) *Nat. Methods* 12:207. ⬜ complete reference list at submission.

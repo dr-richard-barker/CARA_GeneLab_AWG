@@ -45,11 +45,13 @@ model, not an imposed shape.**
 
 > **Caveat — these L/W numbers are illustrative, not calibrated.** They are set by the
 > anisotropy parameter `α` and a display width-scale, not fitted to data. The short-fat
-> prediction is **not corroborated** by the measured spaceflight morphometrics (root length is
-> largely unchanged flight-vs-ground, and root width was never measured) — see
-> [`model_vs_morphometrics_validation.md`](model_vs_morphometrics_validation.md). The model's
-> **validated** result is the directional one: µG → symmetric auxin → loss of a consistent
-> skew direction and increased directional variance, which the flight data do show.
+> prediction is **not corroborated** by the CARA-lineage morphometrics: RootNav re-measurement
+> (light/dark separated) shows flight roots modestly **shorter in all six** genotype × light
+> conditions but **thinner, not fatter, in 4 of 6** (wider only in *phyD*-light), and OSD-121's
+> apparent size drop was largely a **calibration artifact** (mm² *p* = 0.30). The model's
+> **validated** result is the directional one: µG → symmetric auxin → **loss of directional
+> organisation** (OSD-121 angle dispersion 51.2° vs 45.3°, *p* < 10⁻⁴). Full write-up:
+> [`model_vs_morphometrics_validation.md`](model_vs_morphometrics_validation.md).
 
 ## Next modelling steps
 - **Feed the real profile:** drive growth with the 2-D transport model's axis auxin gradient
