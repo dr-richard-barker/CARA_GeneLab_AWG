@@ -19,8 +19,12 @@ OSD-120 shows spaceflight **suppresses columella PIN3/PIN7 in a light- and genot
 manner** (strongest in dark-grown Col-0). Feeding the measured suppression into the model
 **confines auxin toward the quiescent centre (QC)**. Two routes — loss of the biophysical cue
 and loss of PIN3/7 expression — thus converge on the same outcome: a root tip that can no
-longer build a directional auxin gradient. The framework yields testable predictions for
-plant growth in partial and hyper-gravity relevant to lunar and Martian agriculture.
+longer build a directional auxin gradient. This predicts not a stalled root but a **directionally
+disorganised** one, and re-measured CARA-lineage flight images bear it out: root-angle **dispersion
+rises in spaceflight (OSD-121: 51.2° vs 45.3°, _p_ < 10⁻⁴)**, whereas the apparent size reduction
+is largely an imaging-calibration artifact (area *p* = 0.30) and roots are not consistently
+shorter-and-fatter. The framework yields testable predictions for plant growth in partial and
+hyper-gravity relevant to lunar and Martian agriculture.
 
 ## 1. Introduction
 Gravitropism is textbook plant biology, yet its mechanism is quantitative. Amyloplasts
