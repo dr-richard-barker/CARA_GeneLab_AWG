@@ -18,7 +18,7 @@ root growth that follows.
 - **In microgravity** the fountain still forms but has **no direction** (symmetric auxin), and
   independently CARA/OSD-120 shows spaceflight **suppresses PIN3/PIN7** → auxin **confined to the QC**.
 - **Gravity sets the asymmetry**: model predicts 0 % (µG) → 10 % (Moon) → 21 % (Mars) → 36 % (Earth) → 41 % (2 g).
-- **The growth read-out** is the **[short, fat, hypoxic root](results/hypoxic-root-modelling.md)** — no convection → hypoxia → ethylene → radial swelling.
+- **The measured phenotype** (CARA-lineage images, re-measured) is **loss of directional organisation** — OSD-121 root-angle dispersion rises in flight (51.2° vs 45.3°, *p* < 10⁻⁴), matching the symmetric-auxin model. The modelled **[short, fat, hypoxic root](results/hypoxic-root-modelling.md)** is *not* borne out: flight roots are modestly shorter but **thinner, not fatter**, and the apparent size drop is largely a calibration artifact ([validation](results/model_vs_morphometrics_validation.md)).
 
 ## Progress
 - [x] Confirmed OSD-120 design via OSDR API (90 samples; Ecotype × Light × Spaceflight; RNA-Seq + imaging).
@@ -29,6 +29,11 @@ root growth that follows.
 - [x] Short-fat **hypoxic-root** visualisation + explanation (Fig 4).
 - [ ] From-raw **DESeq2** rerun to confirm GeneLab's table (`reanalysis/scripts/01_deseq2.R`).
 - [x] Couple **auxin → growth** so the short-fat shape **emerges** dynamically (Fig 5).
+- [x] **Validate against re-measured CARA-lineage morphometrics** ([`results/model_vs_morphometrics_validation.md`](results/model_vs_morphometrics_validation.md)):
+  directional prediction **confirmed** — OSD-121 root-angle dispersion ↑ in flight (51.2° vs 45.3°,
+  *p* < 10⁻⁴), ABRS same direction; short-fat prediction **not supported** (RootNav: flight roots
+  shorter but mostly *thinner*; OSD-121 size drop is a calibration artifact, mm² *p* = 0.30).
+  Phenotype data: [`image-analysis-software-and-R-codes`](https://github.com/dr-richard-barker/image-analysis-software-and-R-codes).
 - [ ] Complete author list / ORCIDs → **mint the Zenodo DOI** (enable repo in Zenodo, then release).
 
 ## Repository map
@@ -37,7 +42,7 @@ root growth that follows.
 | [`manuscript/`](manuscript/) | `MANUSCRIPT.md` (peer-review draft) + `OUTLINE.md` |
 | [`figures/`](figures/) | Fig 1 (gravity series) · Fig 2 (PIN carriers) · Fig 3 (µG confinement) · Fig 4 (hypoxic root) · Fig 5 (auxin→growth) |
 | [`reanalysis/`](reanalysis/) | `PIPELINE.md`, `environment.yml`, `scripts/`, `README.md` (FAIR + reproduce) |
-| [`results/`](results/) | extracted tables, findings, enrichment, physiology ANOVAs |
+| [`results/`](results/) | PIN3/7 findings + table, hypoxic-root model, **morphometric validation** |
 | `*.md` | original CARA narrative chapters |
 
 ## Reproduce & cite
