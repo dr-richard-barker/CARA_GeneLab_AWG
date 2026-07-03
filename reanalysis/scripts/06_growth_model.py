@@ -49,10 +49,10 @@ def draw(ax, l, w, x0, label):
         ax.add_patch(Rectangle((x0 - ww / 2, y), ww, l[i], facecolor=magma(min(1, auxin[i] / amax)),
                                edgecolor="#3a0f28", lw=0.2))
         y += l[i]
-    ax.text(x0, -12, label, ha="center", va="top", fontsize=9)
+    ax.text(x0, -14, label, ha="center", va="top", fontsize=8)
 draw(axr, lN, wN, 0, f"Normoxic (1 g)\nlong · thin\nL/W = {AN:.0f}")
-draw(axr, lH, wH, 42, f"Spaceflight hypoxia\nshort · fat\nL/W = {AH:.0f}")
-axr.set_xlim(-20, 64); axr.set_ylim(-34, LN * 1.06)
+draw(axr, lH, wH, 78, f"Spaceflight\nhypoxia\nshort · fat\nL/W = {AH:.0f}")
+axr.set_xlim(-30, 108); axr.set_ylim(-40, LN * 1.06)
 axr.set_aspect("equal"); axr.axis("off")
 axr.set_title("Emergent root shape\n(tip ↓, colour = auxin; width ×10)", fontsize=9)
 
