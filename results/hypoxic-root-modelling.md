@@ -43,6 +43,14 @@ O₂ → ethylene) the *same rule* yields a **short, fat** root (L/W ≈ 41) tha
 overall (growth-curve, right). **The short-fat phenotype is now an emergent output of the
 model, not an imposed shape.**
 
+> **Caveat — these L/W numbers are illustrative, not calibrated.** They are set by the
+> anisotropy parameter `α` and a display width-scale, not fitted to data. The short-fat
+> prediction is **not corroborated** by the measured spaceflight morphometrics (root length is
+> largely unchanged flight-vs-ground, and root width was never measured) — see
+> [`model_vs_morphometrics_validation.md`](model_vs_morphometrics_validation.md). The model's
+> **validated** result is the directional one: µG → symmetric auxin → loss of a consistent
+> skew direction and increased directional variance, which the flight data do show.
+
 ## Next modelling steps
 - **Feed the real profile:** drive growth with the 2-D transport model's axis auxin gradient
   (rather than the analytic profile used here).
